@@ -1,0 +1,205 @@
+{
+  "pays": "Monténégro",
+  "drapeau": "🇲🇪",
+  "symbole": "⛵",
+  "titre": "Évasion Relaxante dans la Baie de Kotor",
+  "budget_total": "Environ 1000 € par personne",
+  "duree": "4 jours",
+  "temps_vol": "2h30 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Charme de la Vieille Ville",
+      "legende": "Après un vol court et direct, installez-vous confortablement et laissez-vous envoûter par l'atmosphère médiévale de la vieille ville de Kotor, un site classé au patrimoine mondial de l'UNESCO. Profitez d'une première soirée paisible pour vous imprégner de l'ambiance unique de cette perle de l'Adriatique.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Tivat (TIV) et transfert vers Kotor. Profitez du court trajet pour admirer les premiers paysages de la baie.",
+        "<strong>🛏️</strong>: Installation à votre hôtel. Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>🚶‍♀️</strong>: Première balade relaxante dans la Vieille Ville de Kotor. Perdez-vous dans ses ruelles pavées, découvrez ses places charmantes et imprégnez-vous de son histoire.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant local. Savourez les saveurs monténégrines dans une ambiance décontractée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Tivat, Tivat",
+          "categorie": "Aéroport",
+          "coords": { "lat": 42.4047, "lng": 18.7231 }
+        },
+        {
+          "nom_recherche": "Vieille Ville de Kotor, Kotor",
+          "categorie": "Site historique",
+          "coords": { "lat": 42.4247, "lng": 18.7712 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le transfert de l'aéroport de Tivat à Kotor prend environ 15-20 minutes en taxi ou bus, offrant déjà de belles vues sur la baie."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛵",
+      "titre": "Croisière Apaisante sur la Baie",
+      "legende": "Explorez la majestueuse Baie de Kotor lors d'une croisière relaxante, découvrez des îles pittoresques et des villages côtiers empreints de sérénité. Laissez-vous bercer par les eaux calmes et admirez les montagnes imposantes qui plongent dans l'Adriatique, offrant des panoramas inoubliables.",
+      "lieu": "Baie de Kotor",
+      "activites": [
+        "<strong>☕</strong>: Petit-déjeuner tranquille. Commencez la journée en douceur avec une vue sur la baie.",
+        "<strong>⛵</strong>: Croisière relaxante sur la Baie de Kotor. Admirez les paysages spectaculaires, les montagnes plongeant dans l'eau et les charmants villages.",
+        "<strong>🏝️</strong>: Visite de l'île Notre-Dame du Rocher (Gospa od Škrpjela) et de Perast. Explorez cette île artificielle unique et le village baroque de Perast, connu pour ses palais et églises.",
+        "<strong>🌅</strong>: Coucher de soleil depuis les remparts de Kotor. Profitez d'une vue imprenable sur la baie et la vieille ville au crépuscule (montée douce)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Port de Kotor, Kotor",
+          "categorie": "Port",
+          "coords": { "lat": 42.4240, "lng": 18.7690 }
+        },
+        {
+          "nom_recherche": "Notre-Dame du Rocher, Perast",
+          "categorie": "Île",
+          "coords": { "lat": 42.4806, "lng": 18.6947 }
+        },
+        {
+          "nom_recherche": "Perast, Monténégro",
+          "categorie": "Village",
+          "coords": { "lat": 42.4850, "lng": 18.6960 }
+        },
+        {
+          "nom_recherche": "Remparts de Kotor, Kotor",
+          "categorie": "Site historique",
+          "coords": { "lat": 42.4250, "lng": 18.7720 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Les croisières partent régulièrement du port de Kotor et durent généralement quelques heures, incluant des arrêts pour explorer les îles et villages."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌿",
+      "titre": "Nature et Détente au Bord de l'Eau",
+      "legende": "Échappez à l'agitation en explorant les environs verdoyants de Kotor, avec des options de baignade rafraîchissantes ou une visite culturelle paisible. Profitez d'une journée dédiée à la relaxation, que ce soit sur une plage ensoleillée ou en découvrant l'histoire maritime locale.",
+      "lieu": "Environs de Kotor",
+      "activites": [
+        "<strong>🧘‍♀️</strong>: Matinée libre pour la détente. Profitez d'un café en terrasse ou d'une lecture au bord de l'eau, en admirant le paysage.",
+        "<strong>🏖️</strong>: Après-midi à la plage de Dobrota. Détendez-vous sur le sable, nagez dans les eaux claires de l'Adriatique ou profitez d'un déjeuner les pieds dans l'eau.",
+        "<strong>🏛️</strong>: Visite du Musée Maritime de Kotor. Plongez dans l'histoire navale de la région et découvrez les traditions maritimes de la baie.",
+        "<strong>🍷</strong>: Dégustation de vins locaux ou de produits du terroir. Terminez la journée par une expérience gustative authentique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Plage de Dobrota, Kotor",
+          "categorie": "Plage",
+          "coords": { "lat": 42.4500, "lng": 18.7500 }
+        },
+        {
+          "nom_recherche": "Musée Maritime du Monténégro, Kotor",
+          "categorie": "Musée",
+          "coords": { "lat": 42.4250, "lng": 18.7710 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Des bus locaux relient Kotor aux plages environnantes comme Dobrota pour un coût modique et un trajet rapide."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez d'une dernière matinée pour flâner, faire quelques emplettes de souvenirs et savourer un dernier repas monténégrin avant votre départ. Emportez avec vous les doux souvenirs de la Baie de Kotor et de ses paysages enchanteurs.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>🛍️</strong>: Achats de souvenirs. Trouvez des produits artisanaux locaux, de l'huile d'olive ou des spécialités pour prolonger le voyage.",
+        "<strong>🚶‍♂️</strong>: Dernière promenade dans la vieille ville. Revivez vos moments préférés et prenez quelques dernières photos des lieux qui vous ont marqué.",
+        "<strong>🍽️</strong>: Déjeuner d'adieu. Savourez un dernier repas typique avant de prendre la route de l'aéroport.",
+        "<strong>🛫</strong>: Transfert vers l'aéroport de Tivat (TIV) et vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vieille Ville de Kotor, Kotor",
+          "categorie": "Site historique",
+          "coords": { "lat": 42.4247, "lng": 18.7712 }
+        },
+        {
+          "nom_recherche": "Aéroport de Tivat, Tivat",
+          "categorie": "Aéroport",
+          "coords": { "lat": 42.4047, "lng": 18.7231 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le transfert et les formalités à l'aéroport, surtout en haute saison, afin d'éviter tout stress inutile."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 412 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 60 €/pers (transferts, bus, croisière)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 200 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250 €/pers (3 nuits, hôtel 3* base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers (croisière, musées, dégustation)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est l'Euro (€). Les cartes bancaires sont acceptées dans la plupart des commerces, mais ayez du liquide pour les petits achats.", "symbole": "💳" },
+    { "titre": "Le Monténégro est un pays sûr. Cependant, comme partout, soyez vigilant dans les zones touristiques et respectez les coutumes locales.", "symbole": "✅" },
+    { "titre": "La langue officielle est le monténégrin, mais l'anglais est largement parlé dans les zones touristiques, notamment à Kotor.", "symbole": "🗣️" },
+    { "titre": "Le climat méditerranéen offre des étés chauds et secs, et des hivers doux. Préférez le printemps ou l'automne pour des températures agréables et moins de foule.", "symbole": "🌡️" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Une île née d'une promesse", 
+      "texte": "L'île de Notre-Dame du Rocher, près de Perast, est entièrement artificielle. La légende raconte qu'elle fut créée par des marins qui, après avoir trouvé une icône de la Vierge Marie sur un rocher, firent le vœu de jeter une pierre à cet endroit après chaque voyage réussi, formant ainsi l'île au fil des siècles." 
+    },
+    { 
+      "symbole": "🐾", 
+      "titre": "Kotor, la ville des chats", 
+      "texte": "Kotor est surnommée la \"ville des chats\" en raison de la grande population féline qui y réside. Ces chats sont considérés comme des porte-bonheur et sont choyés par les habitants et les touristes, avec même un musée et des boutiques dédiées à ces félins." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍖", 
+      "titre": "Njeguski Prsut", 
+      "description": "Un jambon fumé et séché à l'air, originaire du village de Njeguši, réputé pour son goût intense et sa texture fondante. Souvent servi en apéritif avec du fromage local." 
+    },
+    { 
+      "symbole": "🧀", 
+      "titre": "Kajmak", 
+      "description": "Une crème de lait fermentée, riche et onctueuse, souvent comparée à un fromage frais. Elle accompagne parfaitement les plats de viande ou le pain frais, ajoutant une touche gourmande." 
+    },
+    { 
+      "symbole": "🐟", 
+      "titre": "Riblji Brodet", 
+      "description": "Un ragoût de poisson méditerranéen, préparé avec plusieurs types de poissons frais, des tomates, de l'ail et des herbes. Un délice pour les amateurs de fruits de mer, souvent servi avec de la polenta." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TIV/2026-05-18/2026-05-22", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Monténégro", "url": "https://www.montenegro.travel/fr", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Bus au Monténégro", "url": "https://busticket4.me/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Monténégro", "url": "https://www.accuweather.com/fr/me/montenegro-weather", "symbole": "🌤️" }
+  ]
+}
